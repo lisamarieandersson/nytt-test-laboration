@@ -67,19 +67,19 @@ function playGame() {
     }
 
 //Choose the correct action
-    switch(action) {
+switch(action) {
 
-        case "north":
-            if(mapLocation >= 3) {
-            mapLocation -= 3;
+    case "north":
+        if(mapLocation >= 3) {
+        mapLocation -= 3;
         }
         else {
         gameMessage = blockedPathMessages;
         }
         break;
 
-        case "south":
-            if(mapLocation < 6) {
+    case "south":
+        if(mapLocation < 6) {
         mapLocation += 3;
         }
         else {
@@ -87,18 +87,18 @@ function playGame() {
         }
         break;
 
-        case "east":
-            if(mapLocation % 3 != 2) {
-            mapLocation += 1;
+    case "east":
+        if(mapLocation % 3 != 2) {
+        mapLocation += 1;
         }
         else {
             gameMessage = blockedPathMessages;
         }
         break;
 
-        case "west":
-            if(mapLocation % 3 != 0) {
-            mapLocation -= 1;
+    case "west":
+        if(mapLocation % 3 != 0) {
+        mapLocation -= 1;
         }
         else {
             gameMessage = blockedPathMessages
