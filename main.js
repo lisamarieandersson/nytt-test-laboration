@@ -27,7 +27,7 @@ var gameMessage = "";
 
 //Create and array of actions the game understands
 //And a variable to store the current action
-var actionsIKnow = ["north", "east", "south", "west"];
+var actionsIKnow = ["north", "south", "east", "west"];
 var action = "";
 
 //The input and output fields
