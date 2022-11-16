@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(253, 238, 237);
+    font-family: 'Space Mono', monospace;
+    margin: 8rem;
+}
+
+div {
+    background-color: white;
+    width: 34rem;
+    border-color: lightskyblue;
+    border-style: dashed;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+input {
+    border-radius: 10px;
+    width: 16rem;
+    height: 1.7rem;
+    border-color: dodgerblue;
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+}
+
+input:hover {
+    background-color:floralwhite;
+}
+
+button {
+    border-radius: 10px;
+    background-color: dodgerblue;
+    width: 5rem;
+    height: 2.2rem;
+    border-color: dodgerblue;
+    font-family: 'Space Mono', monospace;
+    color: white;
+    font-size: 16px;
+}
