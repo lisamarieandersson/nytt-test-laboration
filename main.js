@@ -3,15 +3,15 @@
 
 const map = []
 
-map [0] = "The Living Room";
-map [1] = "The Central Station";
-map [2] = "Old Town";
-map [3] = "Noras Room Year 1923";
-map [4] = "The Apartment";
-map [5] = "The Abandoned House";
-map [6] = "Noras Room Present Time";
-map [7] = "The Retirement Home";
-map [8] = "Under The Bridge";
+map [0] = "The Theater";
+map [1] = "The Grocery Store";
+map [2] = "Frank's Apartment";
+map [3] = "St Deborah-By-The-Water";
+map [4] = "Severn City Airport";
+map [5] = "Adrift In A Stranger's Galaxy";
+map [6] = "The Cabin in The Woods";
+map [7] = "The Spaceship";
+map [8] = "In The Woods";
 
 //Blocked path messages
 var blockedPathMessages = "You can't go that way!";
