@@ -1,4 +1,4 @@
-# Nytt test av laboration 
+# Test av spel
 
 Test av början på ett spel där man rör sig genom olika platser i en karta som är uppbyggd av ett rutnät. 
 
