@@ -10,7 +10,7 @@ map [3] = "St Deborah By The Water";
 map [4] = "Severn City Airport";
 map [5] = "Adrift In A Stranger's Galaxy";
 map [6] = "The Cabin in The Woods";
-map [7] = "The Spaceship";
+map [7] = "The Space Station";
 map [8] = "In The Woods";
 
 //Blocked path messages
